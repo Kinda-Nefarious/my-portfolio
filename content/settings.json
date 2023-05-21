@@ -1,34 +1,34 @@
 {
   "siteMetadata": {
     "language": "en",
-    "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
-    "title": "Gatsby Starter for Portfolio Minimal",
+    "siteUrl": "https://www.rufaronyakudya.com/",
+    "title": "Rufaro Nyakudya",
     "titleTemplate": "%s · Portfolio Minimal",
-    "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
-    "author": "Konstantin Münster",
-    "avatar": "../content/images/gatsby.png",
-    "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
+    "description": "Rufaro Nyakudya's Portfolio Website.",
+    "author": "Rufaro D. Nyakudya",
+    "avatar": "../content/images/Favi bg.png",
+    "bio": "Friendly neighborhood Cloud Engineer who loves talking about Cloud, Automation, and Infrastructure. Occasional writer.",
     "social": {
-      "behance": "https://behance.com",
-      "github": "https://github.com/konstantinmuenster",
-      "medium": "https://konstantinmuenster.medium.com",
-      "linkedin": "https://www.linkedin.com/in/konstantin-muenster/",
-      "mail": "mailto:mail@konstantin.digital"
+      "twitter": "https://twitter.com/KindaNefarious",
+      "instagram": "https://www.instagram.com/kinda.nefarious/",
+      "github": "https://github.com/Kinda-Nefarious",
+      "medium": "https://hashnode.com/@KindaNefarious",
+      "linkedin": "https://www.linkedin.com/in/rufaro-nyakudya/"
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Portfolio" },
+    "logo": { "text": "Rufaro Nyakudya" },
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
-        { "label": "Blog", "url": "/blog" },
-        { "label": "Features", "url": "/#features" },
-        { "label": "Github", "url": "/#github" }
+        { "label": "Resume", "url": "/#features" },
+        { "label": "Projects", "url": "/#features" },
+        { "label": "Contact", "url": "/#github" }
       ],
       "ctaButton": {
         "openNewTab": true,
-        "label": "Resume",
-        "url": "/resume.pdf"
+        "label": "Blog",
+        "url": "https://blog.rufaronyakudya.com/"
       },
       "footer": [
         { "label": "Privacy", "url": "/privacy" },
