@@ -1,14 +1,12 @@
 ---
-imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
-imageAlt: "About Gatsby Theme Portfolio Minimal"
+imageSrc: "../../images/me.jpeg"
+imageAlt: "My photo"
 ---
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
+Welcome to my world! I am a passionate Cloud Engineer and occasional writer who enjoys working on innovative solutions to complex problems.
 
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
+My fitness obsession is second to none, and I pride myself on leading a healthy and active lifestyle. I am a proud foodie who loves to cook and explore new cuisines from around the world. Along with that, I am an avid anime lover and enjoy immersing myself in unique and captivating storylines whenever I can.
 
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
+As a reader, I indulge in reading books across all genres, and as a video gamer, I explore virtual worlds and challenge my skills with new games. I believe in living life to the fullest and seek to share my passions with others. Join me for a journey of adventure, creativity, and personal growth. Together, we can inspire and motivate each other to achieve success and happiness in all aspects of life.
 
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
-
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
+So let's chat!
