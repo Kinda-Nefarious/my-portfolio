@@ -27,7 +27,7 @@
       "description": "The Cloud Resume Challenge is a project that involves building a personal resume website and deploying it using various cloud services. In my case I used GCP to deploy this resume website.",
       "tags": ["Decoupled Application", "GCP", "GitHub Actions"],
       "image": {
-        "src": "../../images/resume.jpg",
+        "src": "../../images/resume.png",
         "alt": "Cloud Resume page",
         "linkTo": "https://resume.rufaronyakudya.com/"
       },
