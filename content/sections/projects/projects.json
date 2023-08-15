@@ -3,8 +3,8 @@
     {
       "visible": true,
       "title": "Azure Pet Store",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "description": "A web-based app for the pet store and three microservices for the pet store is deployed on Azure App Service (petstoreapp) and Azure Kubernetes Service (petstorepetservice, petstoreproductservice, and petstoreorderservice).",
+      "tags": ["N-tiered architecture", "Microservices", "App Dev Services"],
       "image": {
         "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
         "alt": "Quick Setup",
