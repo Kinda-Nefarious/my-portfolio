@@ -21,7 +21,7 @@
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
-        { "label": "Resume", "url": "/#features" },
+        { "label": "Resume", "url": "https://resume.rufaronyakudya.com/" },
         { "label": "Projects", "url": "/#projects" },
         { "label": "Contact", "url": "/#contact" }
       ],

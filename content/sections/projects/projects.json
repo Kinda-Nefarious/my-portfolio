@@ -23,18 +23,18 @@
     },
     {
       "visible": true,
-      "title": "Serverless Resume Application",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "title": "Cloud Resume Challenge",
+      "description": "The Cloud Resume Challenge is a project that involves building a personal resume website and deploying it using various cloud services. In my case I used GCP to deploy this resume website.",
+      "tags": ["Decoupled Application", "GCP", "GitHub Actions"],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
-        "alt": "Quick Setup",
-        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+        "src": "../../images/resume.jpg",
+        "alt": "Cloud Resume page",
+        "linkTo": "https://resume.rufaronyakudya.com/"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/Kinda-Nefarious/my-resume-frontend"
         },
         {
           "type": "hashnode",
