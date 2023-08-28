@@ -1,7 +1,7 @@
 {
   "projects": [
     {
-      "visible": true,
+      "visible": false,
       "title": "Azure Pet Store",
       "description": "A web-based app for a pet store and three microservices for the pet store that are deployed on Azure App Service (petstoreapp) and Azure Kubernetes Service (petstorepetservice, petstoreproductservice, and petstoreorderservice).",
       "tags": ["N-tiered architecture", "Microservices", "App Dev Services"],
