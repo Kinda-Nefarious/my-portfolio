@@ -24,8 +24,8 @@
     {
       "visible": true,
       "title": "Cloud Resume Challenge",
-      "description": "The Cloud Resume Challenge is a project that involves building a personal resume website and deploying it using various cloud services. In my case I used GCP to deploy this resume website.",
-      "tags": ["Decoupled Application", "GCP", "GitHub Actions"],
+      "description": "The Cloud Resume Challenge is a project that involves building a personal resume website and deploying it using various cloud services. I used azure for construction of this resume website.",
+      "tags": ["Decoupled Application", "Azure services", "GitHub Actions"],
       "image": {
         "src": "../../images/resume.png",
         "alt": "Cloud Resume page",
