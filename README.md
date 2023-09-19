@@ -1,15 +1,16 @@
-# Azure Resume Website
+# Portfolio Website
 
-The static website is made with Bootstrap 5 and is hosted on Azure Blob Storage. The visitor counter that is updated after each page visit is done through a function on the [backend.](https://github.com/Kinda-Nefarious/azure-resume-backend)
+This is an online portfolio made with Gatsby, GitHub and Azure Static Web Apps. It makes use of CI/CD using GitHub Actions to automatically build and deploy after each commit.
 
-You can read further about the project on my blog [post.]()
+The resume menu button is another project you can see [here.](https://github.com/Kinda-Nefarious/azure-resume)
 
-View the website live [here.](https://resume.rufaronyakudya.com/)
+The blog menu tab button leads to my blog that you can see [here.](https://blog.rufaronyakudya.com/)
 
-The website also serves as the resume page of my [portfolio website.](https://www.rufaronyakudya.com/)
+You can read more about this project [here.]()
 
 ## Architecture
 
+![Alt text](content/images/static.png)
 
 ### Technologies used
 
@@ -17,19 +18,15 @@ The website also serves as the resume page of my [portfolio website.](https://ww
 - HTML
 - Github (Source Control)
 - Github Actions (CI/CD)
-- Azure Blob Storage
-- Azure CDN
-- Xunit testing
+- Azure Static Web Apps
 
 ## Project Goals
 
-The purpose of this project is to show that one is capable of developing and deploying a cloud-based website utilizing Azure services. Using Azure services, the website is completely managed, scalable, and economical. The project demonstrates how to automate the deployment process so that the website is constantly current and functional by using Infrastructure as Code, continuous integration, and deployment.
-
-This project also serves to illustrate the architecture and workings  of a decoupled web application through the seperated frontend and [backend.](https://github.com/Kinda-Nefarious/)
+The purpose of this project is to was to build a porfolio website to showcase myself and my projects. I aim to further increase the scope of the project by adding new widgets and projects contained within the website. 
 
 ## Further Work Planned
 
-- Improve CI/CD pipeline to further meet industry standards
+- Add widgets
 - Increase use of security features
 - Add monitoring
 
