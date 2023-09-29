@@ -6,7 +6,7 @@ The resume menu button is another project you can see [here.](https://github.com
 
 The blog menu tab button leads to my blog that you can see [here.](https://blog.rufaronyakudya.com/)
 
-You can read more about this project [here.]()
+You can read more about this project [here.](https://blog.rufaronyakudya.com/cloud-portfolio-website)
 
 ## Architecture
 
